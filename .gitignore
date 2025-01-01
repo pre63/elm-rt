@@ -1,0 +1,9 @@
+build
+.vscode
+.venv
+src/parsetab.py
+src/parser.out
+Gen
+*.o
+*.hi
+*.info
